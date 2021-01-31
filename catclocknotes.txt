@@ -1,0 +1,9 @@
+clock displaying time with seconds counting down - DONE
+displays image for wake up time when selected on drop-down - DONE
+displays image for lunch time when selected on drop-down - DONE
+displays image for evening time when selected on drop-down - DONE
+displays image for party time when selected - DONE
+drop-down selectors for 1 hour periods - DONE
+
+
+
